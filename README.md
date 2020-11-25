@@ -6,8 +6,8 @@ I am an undergraduate at Tufts University majoring in Data Science. I have been 
 
 ## Table of contents
 - [Projects from online courses]()
-+ [R]()
-+ [Python]()
+ + [R]()
+ + [Python]()
 - [Guided projects]()
 + [R]()
 + [Python]()
