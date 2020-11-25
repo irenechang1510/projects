@@ -12,5 +12,11 @@ I am an undergraduate at Tufts University majoring in Data Science. I have been 
   + [R]()
   + [Python]()
 - [Personal projects]()
-  + [R]()
+  + [R](r-projects)
   + [Python]()
+  
+  
+## R Projects
+| Problem | Description | Implementation |
+| :---: | :---: | :---: |
+| Determine what factors impact students' performance| Use data cleaning and visualization to explore to what extent the common beliefs about what constitutes good academic performance hold true in the context of two Portugese schools| [R](https://github.com/irenechang1510/Student-performance) | 
