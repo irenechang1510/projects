@@ -12,7 +12,7 @@ I am an undergraduate at Tufts University majoring in Data Science. I have been 
   + [R]()
   + [Python]()
 - [Personal projects]()
-  + [R](r-projects)
+  + [R](#r-projects)
   + [Python]()
   
   
