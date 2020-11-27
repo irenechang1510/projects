@@ -20,3 +20,4 @@ I am an undergraduate at Tufts University majoring in Data Science. I have been 
 | Problem | Description | Implementation |
 | :---: | :---: | :---: |
 | Determine what factors impact students' performance| Use data cleaning and visualization to explore to what extent the common beliefs about what constitutes good academic performance hold true in the context of two Portugese schools| [R](https://github.com/irenechang1510/Student-performance) | 
+| Explore data about Indian cuisine| Practice with data visualization, exploration, and imputation | [R](https://github.com/irenechang1510/Kaggle-projects/blob/main/Indian-food/Indian%20food.ipynb)
