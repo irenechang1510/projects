@@ -27,3 +27,8 @@ I am an undergraduate at Tufts University majoring in Data Science. I have been 
 
 
 ## Projects from online courses
+
+| Problem | Description | Implementation |
+| :---: | :---: | :---: |
+| Find replacement players for Oakland Athletics| Analyze the data of the performance of players and salaries from Oakland Athletics, data cleaning and manipulation to find out the best replacements| [R](https://github.com/irenechang1510/Udemy-projects/blob/main/moneyball/R%20Moneyball%20project.ipynb)|
+| Analyze 911 phone calls| Practice exploratory data analysis using data manipulation and data visualization on the dataset on 911 phone calls| [Python](https://github.com/irenechang1510/Udemy-projects/blob/main/911-call/01-911%20Calls%20Data%20Capstone%20Project.ipynb)|
