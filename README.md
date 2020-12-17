@@ -8,8 +8,6 @@ I am an undergraduate at Tufts University majoring in Data Science. I have been 
 - [Personal projects](#personal-projects)
 - [Guided projects](#guided-projects)
 - [Projects from online courses](projects-from-online-courses)
-  + [R]()
-  + [Python]()
 
 ## Personal Projects  
 
