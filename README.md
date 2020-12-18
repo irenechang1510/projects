@@ -43,3 +43,4 @@ Entering the field of data science with only the knowledge of statistics was an 
 ## Courses and Certificates
 R: 
 - [Data Science and Machine Learning Bootcamp with R](https://www.udemy.com/certificate/UC-1d025c52-9b12-4395-9790-856bc552fabc/)(Udemy – March 2020)
+- [R Programming: Advanced Analytics In R For Data Science](https://www.udemy.com/certificate/UC-871e03b3-6e09-440c-83a4-5e74bbcc7586/)(Udemy – May 2020)
