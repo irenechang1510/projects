@@ -1,1 +1,1 @@
-![Cases in the US](COVID19Viz/NYT-cases.jpeg)
+![](https://github.com/irenechang1510/Portfolio/blob/main/COVID19Viz/NYT-cases.jpeg)
