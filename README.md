@@ -36,7 +36,7 @@ Entering the field of data science with only the knowledge of statistics was an 
 | Problem | Description | Implementation |
 | :---: | :---: | :---: |
 | Determine what factors impact students' performance| Use data cleaning and visualization to explore to what extent the common beliefs about what constitutes good academic performance hold true in the context of two Portugese schools| [R](https://github.com/irenechang1510/Student-performance) | 
-| Explore data about Indian cuisine| Practice with data visualization, exploration, and imputation | [R](https://github.com/irenechang1510/Kaggle-projects/blob/main/Indian-food/Indian%20food.ipynb)|
+| Explore data about Indian cuisine| Practice with data visualization, exploration, and imputation, find the relationships between different factors in Indian dishes| [R](https://github.com/irenechang1510/Kaggle-projects/blob/main/Indian-food/Indian%20food.ipynb)|
 | COVID New York Times number of cases visualization| One of my very first self-guided visualization projects back in April 2020, the data is provided by NYT, I made an effort to replicate the bar graph showing cumulative number of cases in the US everyday as a way to explore and learn from real time data.| [R](https://github.com/irenechang1510/Portfolio/tree/main/COVID19Viz)
 
 
