@@ -29,7 +29,7 @@ Entering the field of data science with only the knowledge of statistics was an 
 | :---: | :---: | :---: |
 | Determine the effect of handwashers on curbing diseases| Practice analyzing the data that made Semmelweis discover the importance of handwashing. Examine the death rates by several basic data manipulation and data visualization tools| [R](https://github.com/irenechang1510/DataCamp-Projects/blob/main/handwashing/handwashing-analysis.ipynb)| 
 | Visualize the trends of development in COVID-19 around the world| Practice data manipulation and visualization techniques to explore the data about COVID19 cases in China and around the world| [R](https://github.com/irenechang1510/DataCamp-Projects/blob/main/COVID19%20Visualization/COVID19_Viz.ipynb)|
-| Explore the volatility structure of US Government Bond Yields| Using xts package and GARCH modeling to compare volatility of US government bond with different maturity| [R]()
+| Explore the volatility structure of US Government Bond Yields| Using xts package and GARCH modeling to compare volatility of US government bond and yield with different maturity| [R](https://github.com/irenechang1510/DataCamp-Projects/blob/main/VolatilityAnalysis/ModelingBond.ipynb)
 
 
 ## Personal Projects  
