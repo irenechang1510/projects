@@ -29,7 +29,8 @@ Entering the field of data science with only the knowledge of statistics was an 
 | :---: | :---: | :---: |
 | Determine the effect of handwashers on curbing diseases| Practice analyzing the data that made Semmelweis discover the importance of handwashing. Examine the death rates by several basic data manipulation and data visualization tools| [R](https://github.com/irenechang1510/DataCamp-Projects/blob/main/handwashing/handwashing-analysis.ipynb)| 
 | Visualize the trends of development in COVID-19 around the world| Practice data manipulation and visualization techniques to explore the data about COVID19 cases in China and around the world| [R](https://github.com/irenechang1510/DataCamp-Projects/blob/main/COVID19%20Visualization/COVID19_Viz.ipynb)|
-| Explore the volatility structure of US Government Bond Yields| Using xts package and GARCH modeling to compare volatility of US government bond and yield with different maturity| [R](https://github.com/irenechang1510/DataCamp-Projects/blob/main/VolatilityAnalysis/ModelingBond.ipynb)
+| Explore the volatility structure of US Government Bond Yields| Using xts package and GARCH modeling to compare volatility of US government bond and yield with different maturity| [R](https://github.com/irenechang1510/DataCamp-Projects/blob/main/VolatilityAnalysis/ModelingBond.ipynb)|
+| Classify heart disease patients for treatment specification| Use unsupervised classification methods k-means and hierarchical clustering to group patients based on their characteristics| [ML R](https://github.com/irenechang1510/DataCamp-Projects/blob/main/Heart%20disease%20pattern/heart-disease.ipynb)
 
 
 ## Personal Projects  
@@ -39,8 +40,8 @@ Entering the field of data science with only the knowledge of statistics was an 
 | Determine what factors impact students' performance| Use data cleaning and visualization to explore to what extent the common beliefs about what constitutes good academic performance hold true in the context of two Portugese schools| [R](https://github.com/irenechang1510/Student-performance) | 
 | Explore data about Indian cuisine| Practice with data visualization, exploration, and imputation, find the relationships between different factors in Indian dishes| [R](https://github.com/irenechang1510/Kaggle-projects/blob/main/Indian-food/Indian%20food.ipynb)|
 | COVID New York Times number of cases visualization| One of my very first self-guided visualization projects back in April 2020, the data is provided by NYT, I made an effort to replicate the bar graph showing cumulative number of cases in the US everyday as a way to explore and learn from real time data.| [R](https://github.com/irenechang1510/Portfolio/tree/main/COVID19Viz)|
-| Visualize airline incidents over 2 periods of time | Practice cleaning and visualizing data about airline incidents to see if safety is improved over time and whether traveling with some certain airlines is more dangerous than with others (to be continued) | [R](https://github.com/irenechang1510/Airline_safety)|
-| Predict whether a person stand a chance of having a heart disease| Use data EDA and different supervised models to classify heart disease potentials | [R](https://github.com/irenechang1510/Heart-disease-classification)
+| Airline incidents visualization over 2 periods of time | Practice cleaning and visualizing data about airline incidents to see if safety is improved over time and whether traveling with some certain airlines is more dangerous than with others (to be continued) | [R](https://github.com/irenechang1510/Airline_safety)|
+| Heart disease prediction | Use data EDA and different supervised models to classify heart disease potentials | [R](https://github.com/irenechang1510/Heart-disease-classification)
 
 ## Courses and Certificates
 R: 
