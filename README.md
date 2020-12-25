@@ -40,7 +40,7 @@ Entering the field of data science with only the knowledge of statistics was an 
 | Explore data about Indian cuisine| Practice with data visualization, exploration, and imputation, find the relationships between different factors in Indian dishes| [R](https://github.com/irenechang1510/Kaggle-projects/blob/main/Indian-food/Indian%20food.ipynb)|
 | COVID New York Times number of cases visualization| One of my very first self-guided visualization projects back in April 2020, the data is provided by NYT, I made an effort to replicate the bar graph showing cumulative number of cases in the US everyday as a way to explore and learn from real time data.| [R](https://github.com/irenechang1510/Portfolio/tree/main/COVID19Viz)|
 | Visualize airline incidents over 2 periods of time | Practice cleaning and visualizing data about airline incidents to see if safety is improved over time and whether traveling with some certain airlines is more dangerous than with others (to be continued) | [R](https://github.com/irenechang1510/Airline_safety)|
-| Predict whether a person stand a chance of having a heart disease| Use data EDA and different models to classify heart disease potentials | [R](https://github.com/irenechang1510/Heart-disease-classification)
+| Predict whether a person stand a chance of having a heart disease| Use data EDA and different supervised models to classify heart disease potentials | [R](https://github.com/irenechang1510/Heart-disease-classification)
 
 ## Courses and Certificates
 R: 
