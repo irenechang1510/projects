@@ -43,8 +43,3 @@ Entering the field of data science with only the knowledge of statistics was an 
 | Airline incidents visualization over 2 periods of time | Practice cleaning and visualizing data about airline incidents to see if safety is improved over time and whether traveling with some certain airlines is more dangerous than with others (to be continued) | [R](https://github.com/irenechang1510/Airline_safety)|
 | Heart disease prediction | Use data EDA and different supervised models to classify heart disease potentials | [R](https://github.com/irenechang1510/Heart-disease-classification)
 
-## Courses and Certificates
-R: 
-- [Data Science and Machine Learning Bootcamp with R](https://www.udemy.com/certificate/UC-1d025c52-9b12-4395-9790-856bc552fabc/)(Udemy – March 2020)
-- [R Programming: Advanced Analytics In R For Data Science](https://www.udemy.com/certificate/UC-871e03b3-6e09-440c-83a4-5e74bbcc7586/)(Udemy – May 2020)
-- [Applied Statistical Modeling for Data Analysis in R](https://www.udemy.com/certificate/UC-83b4514f-917f-4090-ac5e-514bbc970fc3/)(Udemy - April 2020)
