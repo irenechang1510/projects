@@ -10,7 +10,6 @@ I am an undergraduate at Tufts University majoring in Data Science. Beginning wi
 - [Projects from online courses](projects-from-online-courses)
 - [Guided projects](#guided-projects)
 - [Personal projects](#personal-projects)
-- [Courses and certificates](#courses-and-certificates)
 
 Entering the field of data science with only the knowledge of statistics was an interesting transition for me. My first ever contact with data science was a book called "Data Mining: Concepts and Techniques" that I binged reading for months in my junior year. The content encapsulated my interest from the very beginning. Even when it gets more "mathy" and abstract, I still felt motivated to get to understand all the chapters that I came across. This led me to explore linear algebra and calculus maths conceptually through Youtubers and towardsdatascience. There were concepts that I spent weeks to grasp, but the thrill I got at the end gave me the incentive me to study more. I did not think that this way of learning (through exploring a wide range of Youtube channels and Data science blogs) would become such an exciting learning experience that greatly helped me in my data science progress. Learning data science, at some point, has turned into one of my hobbies, the one which I would come for whenever I need to take my mind off the current workload... 
 
