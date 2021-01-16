@@ -15,9 +15,9 @@ I am an undergraduate at Tufts University majoring in Data Science. Beginning wi
 Entering the field of data science with only the knowledge of statistics was an interesting transition for me. My first ever contact with data science was a book called "Data Mining: Concepts and Techniques" that I binged reading for months in my junior year. The content encapsulated my interest from the very beginning. Even when it gets more "mathy" and abstract, I still felt motivated to get to understand all the chapters that I came across. This led me to explore linear algebra and calculus maths conceptually through Youtubers and towardsdatascience. There were concepts that I spent weeks to grasp, but the thrill I got in the end gave me the incentive to study more. Learning data science, at some point, has turned into one of my hobbies, the one which I would come for whenever I need to take my mind off the current workload... 
 
 ## Projects
-| Problem | Description | Implementation |
+|  | Description | Implementation |
 | :---: | :---: | :---: |
-| Vizathon 2021: Explore and visualize data about child obesity | A competition organized by Tufts Data Intensive Studies Center. Collect statistics, datasets about a wide range of health topics; identify the key sociodemographic factors affecting children obesity through interactive data visualization using R Shiny and the highcharter package| [Projects](https://github.com/irenechang1510/Viz-a-thon-2021)
+| Runner-up in Vizathon 2021: Explore and visualize data about child obesity | A competition organized by Tufts Data Intensive Studies Center. Collect statistics, datasets about a wide range of health topics; identify the key sociodemographic factors affecting children obesity through interactive data visualization using R Shiny and the highcharter package| [Projects](https://github.com/irenechang1510/Viz-a-thon-2021)
 
 ## Personal Projects  
 
