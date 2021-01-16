@@ -17,7 +17,7 @@ Entering the field of data science with only the knowledge of statistics was an 
 ## Projects
 | Problem | Description | Implementation |
 | :---: | :---: | :---: |
-| Explore and visualize data about child obesity | Collect statistics, datasets about a wide range of health topics; identify the key sociodemographic factors affecting children obesity through interactive data visualization using R Shiny and the highcharter package| [Projects](https://github.com/irenechang1510/Viz-a-thon-2021)
+| Vizathon 2021: Explore and visualize data about child obesity | A competition organized by Data Intensive Studies Center. Collect statistics, datasets about a wide range of health topics; identify the key sociodemographic factors affecting children obesity through interactive data visualization using R Shiny and the highcharter package| [Projects](https://github.com/irenechang1510/Viz-a-thon-2021)
 
 ## Personal Projects  
 
