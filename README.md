@@ -17,7 +17,8 @@ Entering the field of data science with only the knowledge of statistics was an 
 ## External Projects
 |  | Description | Implementation |
 | :---: | :---: | :---: |
-| Runner-up in Vizathon 2021: Explore and visualize data about child obesity | A competition organized by Tufts Data Intensive Studies Center. Collect statistics, datasets about a wide range of health topics; identify the key sociodemographic factors affecting children obesity through interactive data visualization using R Shiny and the highcharter package| [Projects](https://github.com/irenechang1510/Viz-a-thon-2021)
+| Runner-up in Vizathon 2021: Explore and visualize data about child obesity | A competition organized by Tufts Data Intensive Studies Center. Collect statistics, datasets about a wide range of health topics; identify the key sociodemographic factors affecting children obesity through interactive data visualization using R Shiny and the highcharter package| [Projects](https://github.com/irenechang1510/Viz-a-thon-2021)|
+| Intro to Engineering (EN1) Projects Compilation | In this course, I employed MATLAB to solve optimisation problems with different algorithms, including linear programming, hill climbing and simulated annealing| [Projects](https://github.com/irenechang1510/EN1-Matlab-projects)
 
 ## Personal Projects  
 
