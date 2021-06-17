@@ -17,9 +17,9 @@ Entering the field of data science with only the knowledge of statistics was an 
 ## External Projects
 |  | Description | Implementation |
 | :---: | :---: | :---: |
+| Text Classification - Coronanet | A snapshot using the public dataset of Coronanet.org of my ongoing work at the organization, working on building a model to predict the policy types from policy description with Python| [Projects-Python](https://github.com/irenechang1510/Topic-classification-NN/blob/main/Topic%20classification%20with%20Neural%20Network.ipynb)|
 | Runner-up in Vizathon 2021: Explore and visualize data about child obesity | A competition organized by Tufts Data Intensive Studies Center. Collect statistics, datasets about a wide range of health topics; identify the key sociodemographic factors affecting children obesity through interactive data visualization using R Shiny and the highcharter package| [Projects-R, RShiny](https://github.com/irenechang1510/Viz-a-thon-2021)|
 | Intro to Engineering (EN1) Projects Compilation | In this course, I employed MATLAB to solve optimisation problems with different algorithms, including linear programming, hill climbing and simulated annealing| [Projects-MATLAB](https://github.com/irenechang1510/EN1-Matlab-projects)|
-| Text Classification - Coronanet | A snapshot using the public dataset of Coronanet.org of my ongoing work at the organization, working on building a model to predict the policy types from policy description with Python| [Projects-Python](https://github.com/irenechang1510/Topic-classification-NN/blob/main/Topic%20classification%20with%20Neural%20Network.ipynb)|
 | COMP 152 - Intro to Visual Analytics | Some featured visual systems in Visual Analytics class, tools used in the course: Python, R, d3, Tableau | [Projects in Labs](https://github.com/irenechang1510/Intro-to-VA-cs152) [Final Project](https://github.com/irenechang1510/Visual-Analytics-Final-Proj) |
 
 ## Personal Projects  
