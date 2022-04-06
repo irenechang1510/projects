@@ -1,6 +1,6 @@
 # Projects
 
-## About
+## About 
 
 I am an undergraduate at Tufts University majoring in Data Science. Beginning with an interest in statistics, I have gradually developed a passion for data analysis and machine learning since my junior year in high school and I have been constantly searching opportunities to advance my data science skills. This is a documentation of my learning experience, including a wide range of projects that I did on my own as well as learned from experts.
 
